@@ -10,4 +10,59 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+  /**background: linear-gradient(to right, #f36f5b, #fdd5bc)**/
 }
+
+
+.left-color {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 100%;
+    background-color: #f36f5b; 
+    z-index: -1;
+}
+
+.right-color {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 50%;
+    height: 100%;
+    background-color: #fdd5bc; 
+    z-index: -1;
+}
+
+footer {
+	margin: 0 auto;
+}
+
+.st0 {
+	fill: none;
+}
+
+.st1 {
+	fill: #B17F60;
+}
+
+.st2 {
+	fill: #C95145;
+}
+
+.st3 {
+	fill: #344B62;
+}
+
+.st4 {
+	fill: #1A2C3E;
+}
+
+.st5 {
+	fill: #FCD4BB;
+}
+
+.st6 {
+	fill: #F26F5B;
+}
+
