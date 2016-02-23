@@ -145,7 +145,7 @@ svg {
   padding-top: 25%; /* Polyvision */
 }
 
-.embed__item {
+.embed-item {
   height: 100%;
   left: 0;
   position: absolute;
@@ -157,7 +157,7 @@ svg {
   overflow: hidden;
 }
 
-.media__img {
+.media-img {
   float: left;
 }
 
@@ -169,7 +169,7 @@ svg {
   float: none;
 }
 
-.media__body {
+.media-body {
   overflow: hidden;
   min-width: 12em; /* Slightly less than 200px, responsiveness built in */
 }
